@@ -7,6 +7,7 @@ SITENAME = u'Devin Schwab'
 SITEURL = 'http://devinschwab.com'
 
 PATH = 'content'
+STATIC_PATHS = ['pdfs']
 
 TIMEZONE = 'America/New_York'
 

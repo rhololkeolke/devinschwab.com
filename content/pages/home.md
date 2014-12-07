@@ -5,9 +5,10 @@ save_as: index.html
 My name is Devin Schwab. I'm currently a masters student at Case
 Western Reserve University studying Computer Science. My research
 focuses on machine learning and artificial intelligence --
-specifically reinforcement learning. I am interested in applying
-machine learning techniques in the field of robotics in the hopes of making more
-useful autonomous robots.
+specifically reinforcement learning. My current thesis research is
+focused on hierarchical approaches to reinforcement learning. I am
+interested in applying machine learning techniques in the field of
+robotics in the hopes of making more useful autonomous robots.
 
 I have experience working on real robotics systems. I spent a year as
 a researcher at the University of Hong Kong working on the DARPA

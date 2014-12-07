@@ -1,0 +1,13 @@
+# Python files
+*.pyc
+
+# Emacs files
+*~
+\#*
+
+# Virtualenv
+devinschwab.com/*
+
+# Pelican
+output/*
+cache/*

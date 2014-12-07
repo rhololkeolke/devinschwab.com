@@ -4,13 +4,15 @@ from __future__ import unicode_literals
 
 AUTHOR = u'Devin Schwab'
 SITENAME = u'Devin Schwab'
-SITEURL = ''
+SITEURL = 'http://devinschwab.com'
 
 PATH = 'content'
 
-TIMEZONE = 'Europe/Paris'
+TIMEZONE = 'America/New_York'
 
 DEFAULT_LANG = u'en'
+
+DISPLAY_PAGES_ON_MENU = True
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
@@ -20,16 +22,18 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('Pelican', 'http://getpelican.com/'),
-         ('Python.org', 'http://python.org/'),
-         ('Jinja2', 'http://jinja.pocoo.org/'),
-         ('You can modify those links in your config file', '#'),)
+LINKS = None
 
 # Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
+SOCIAL = None
 
 DEFAULT_PAGINATION = False
 
+THEME = 'themes/gum'
+
+# Theme variables
+GITHUB_URL = 'http://github.com/rhololkeolke'
+TWITTER_URL = 'http://twitter.com/rhololkeolke'
+
 # Uncomment following line if you want document-relative URLs when developing
-#RELATIVE_URLS = True
+RELATIVE_URLS = True

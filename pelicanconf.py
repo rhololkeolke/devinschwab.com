@@ -2,6 +2,8 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
+#PLUGINS = ['pelican_youtube']
+
 AUTHOR = u'Devin Schwab'
 SITENAME = u'Devin Schwab'
 SITEURL = 'http://devinschwab.com'

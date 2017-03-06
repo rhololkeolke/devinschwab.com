@@ -2,16 +2,20 @@ Title: About Me
 URL:
 save_as: index.html
 
-My name is Devin Schwab. I'm currently a first year PhD student at the
-[Robotics Institute (RI)](https://www.ri.cmu.edu/) at Carnegie Mellon
-University (CMU). My research focuses on Artificial Intelligence and
-Machine Learning in the context of robotics. I am part of
-[CORAL group](https://www.cs.cmu.edu/~coral/) led by my adviser
-[Manuela Veloso](https://www.cs.cmu.edu/~mmv/). I plan on competing in
+My name is Devin Schwab. I'm currently a second year PhD student at
+the [Robotics Institute (RI)](https://www.ri.cmu.edu/) at Carnegie
+Mellon University (CMU). My research focuses Deep Reinforcement
+Learning (DeepRL) applied to robots. I am part
+of [CORAL group](https://www.cs.cmu.edu/~coral/) led by my
+adviser [Manuela Veloso](https://www.cs.cmu.edu/~mmv/). Since joining
+the lab I have competed in
 the
-[Standard Platform League of RoboCup](http://www.robocup2016.org/en/leagues/robocup-soccer/standard-platform/)
-using the Nao robots. I am simultaneously working on a project with
-the [CoBots](https://www.cs.cmu.edu/~coral/projects/cobot/).
+[Standard Platform League of RoboCup](http://www.robocup2016.org/en/leagues/robocup-soccer/standard-platform/) using
+the Nao robots. I have also participated in
+the
+[RoboCup Small Size League (SSL)](http://robocup2016.org/en/leagues/robocup-soccer/small-size/) as
+part of
+the [CMDragons team](http://www.cs.cmu.edu/~robosoccer/small/).
 
 Prior to attending CMU, I attended Case Western Reserve University
 (CWRU). As an undergrad, I earned a 4.0 GPA while majoring in
